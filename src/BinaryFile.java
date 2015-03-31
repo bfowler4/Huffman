@@ -5,7 +5,7 @@ public class BinaryFile {
 	/**
 	 * Binary File constructor. Open a file for reading, or create a file for
 	 * writing. If we create a file, and a file already exists with that name,
-	 * the old file will be removed.
+	 * the old file will be removed
 	 * 
 	 * @param filename
 	 *            The name of the file to read from or write to
